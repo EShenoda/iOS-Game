@@ -1,17 +1,7 @@
 
 # <p align="center">iOS Game </p>
 
-
 <br>
-<br>
-
-<h2 align="center">** Please allow a few minutes for GIFs to load ** <br> Thank you so much</h2>
-
-
-
-<br>
-<br>
-
 
 <h2 align="center">Card Matching Game</h3>
 
@@ -53,6 +43,13 @@ func playSound(sound: String, type: String = "mp3") {
     }
 ```
 
+<br>
+<br>
+
+<h2 align="center">** Please allow a few minutes for GIFs to load ** <br> Thank you so much</h2>
+
+<br>
+<br>
 
 __Load Game Animation__
 

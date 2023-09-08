@@ -1,4 +1,6 @@
-# iOS Game
+
+# <p align="center">iOS Game </p>
+
 
 <br>
 <br>

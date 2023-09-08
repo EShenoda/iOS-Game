@@ -124,6 +124,14 @@ __iPad: Add Progress Bar & 10 Extra Cards__
 ## [Click Here to View More iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)
 
 <br>
-<br>
-<br>
+
+##  Copyright
+Private Repo for EmilShenodaDev@gmail.com
+
+All rights reserved: EmilShenoda@FullSailUniversity
+
+## Contact
+Created by [Emil Shenoda](mailto:EmilShenodaDev@gmail.com) - feel free to contact me!
+
+
 

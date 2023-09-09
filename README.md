@@ -1,7 +1,5 @@
 
-# <p align="center">iOS Game </p>
-
-<br>
+# <p align="center">iOS Challenge </p>
 
 <h2 align="center">Card Matching Game</h3>
 
@@ -58,9 +56,7 @@ __Load Game Animation__
 </p>
 
 
-
-___
-
+<br>
 
 __Animations for pulsating Start / Stop button__
 
@@ -75,9 +71,7 @@ __Flashing Colors__
 </p>
 
 
-___
-
-
+<br>
 
 __Card Shake Animation__
 
@@ -86,7 +80,8 @@ __Card Shake Animation__
 </p>
 
 
-___
+
+<br>
 
 
 __Custom Segue Transition__
@@ -96,7 +91,8 @@ __Custom Segue Transition__
 </p>
 
 
-___
+
+<br>
 
 __Layout Changes__
 
@@ -105,7 +101,8 @@ __Layout Changes__
 </p>
 
 
-___
+
+<br>
 
 
 __iPad: Add Progress Bar & 10 Extra Cards__
@@ -119,11 +116,9 @@ __iPad: Add Progress Bar & 10 Extra Cards__
 <br>
 
 
-
-
 ## [Click Here to View More iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)
 
-<br>
+## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Project)
 
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
@@ -133,5 +128,5 @@ All rights reserved: EmilShenoda@FullSailUniversity
 ## Contact
 Created by [Emil Shenoda](mailto:EmilShenodaDev@gmail.com) - feel free to contact me!
 
-
+[Back to top](#card-matching-game)
 

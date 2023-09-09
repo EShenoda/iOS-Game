@@ -118,7 +118,7 @@ __iPad: Add Progress Bar & 10 Extra Cards__
 
 ## [Click Here to View More iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)
 
-## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Project)
+## [Click Here to View Android Illustrations](https://github.com/EShenoda/Android-Project)
 
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
